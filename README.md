@@ -61,15 +61,6 @@ Designing meaningful digital experiences with creativity, usability, and code.
 <img src="https://skillicons.dev/icons?i=figma,java,js,react,html,css,tailwindcss,git,github,vscode" />
 </p>
 
----
-
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
