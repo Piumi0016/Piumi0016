@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm P. D. Piumi Sachinthi De Almeida</h1>
-<h3 align="center">Final-year BSc (Hons) Information Technology undergraduate with a strong interest in UX/UI engineering, frontend development, and building user-centered digital solutions. Passionate about creating clean, engaging, and meaningful digital experiences by combining technical expertise with creative design thinking. Eager to contribute innovative ideas and grow within a dynamic technology-driven environment.</h3>
+![Banner](https://capsule-
+render.vercel.app/api?type=waving&amp;color=0:2b5876,100:4e4376&amp;height=200&amp;section=header&amp;text=Welcome%20t
+o%20My%20GitHub!&amp;fontSize=35&amp;fontColor=ffffff)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piumi0016&label=Profile%20views&color=0e75b6&style=flat" alt="piumi0016" /> </p>
+&lt;h2 align=&quot;center&quot;&gt;Hi ��, I&#39;m Piumi De Almeida&lt;/h2&gt;
+&lt;h4 align=&quot;center&quot;&gt;IT Undergraduate | UX/UI Designer | Frontend Developer&lt;/h4&gt;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piumi0016" alt="piumi0016" /></a> </p>
+---
+&lt;img align=&quot;right&quot; alt=&quot;coding&quot; width=&quot;280&quot;
+src=&quot;https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif&quot;/&gt;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piumi sachinthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piumi sachinthi" height="30" width="40" /></a>
-<a href="https://instagram.com/piumi_sachinthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piumi_sachinthi" height="30" width="40" /></a>
-<a href="https://medium.com/@piumi sachinthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piumi sachinthi" height="30" width="40" /></a>
-</p>
+- �� IT Undergraduate at **KDU**
+- �� Currently learning **UX/UI &amp; Frontend Development**
+- �� Interested in Designing &amp; logical problem solving
+- �� Lifelong learner
+- �� Team player with leadership experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piumi0016&show_icons=true&locale=en&layout=compact" alt="piumi0016" /></p>
+&lt;h3&gt;Connect with me:&lt;/h3&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;a href=&quot;www.linkedin.com/in/sathmi-rayanika-4517b1288&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://skillicons.dev/icons?i=linkedin&quot; height=&quot;40&quot;/&gt;
+&lt;/a&gt;
+
+&lt;a href=&quot;[https://www.instagram.com/YOUR-INSTA](https://www.instagram.com/sathmi_rayanika/)&quot;
+target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://skillicons.dev/icons?i=instagram&quot; height=&quot;40&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;sathmirayanika2001@gmail.com&quot;&gt;
+&lt;img src=&quot;https://skillicons.dev/icons?i=gmail&quot; height=&quot;40&quot;/&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+## �� Programming Languages
+&lt;h3&gt;Languages and Tools:&lt;/h3&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;img src=&quot;https://skillicons.dev/icons?i=figma,java,js,react,html,css,tailwindcss,git,github,vscode&quot; /&gt;
+&lt;/p&gt;
+
+---
+
+⭐ *Always learning. Always growing.*
