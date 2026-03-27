@@ -25,8 +25,6 @@ Designing meaningful digital experiences with creativity, usability, and code.
 - 🧩 Focused on usability, accessibility, and clean UI  
 - 🛠 Tools: Figma, React  
 
-🔗 **View Project:** *(Add your GitHub/Behance link here)*
-
 ---
 
 ### 📧 Spam Email Detection System
@@ -34,16 +32,12 @@ Designing meaningful digital experiences with creativity, usability, and code.
 - 📊 Focused on user interaction and data visualization  
 - 🛠 Tools: Figma, Java, Machine Learning  
 
-🔗 **View Project:** *(Add your project link here)*
-
 ---
 
 ### 📱 Mobile App UI Concept
 - 🎯 Created modern mobile UI with intuitive navigation  
 - 🎨 Focused on color, typography, and user experience  
 - 🛠 Tools: Figma  
-
-🔗 **View Design:** *(Add Figma/Behance link)*
 
 ---
 
